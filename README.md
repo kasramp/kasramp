@@ -30,15 +30,13 @@ A growing collection of retro computing content — FTP tricks for old machines,
 
 ## Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-`Java` `Kotlin` `Spring Boot` `Python` `OpenBSD` `Linux` `Kafka` `Redis` `Elasticsearch` `Docker`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## Find me
 
-- 🌐 Portfolio & full CV → [madadipouya.com](https://madadipouya.com)
+- 🌐 Portfolio → [madadipouya.com](https://madadipouya.com)
 - ✍️ Blog → [geekyhacker.com](https://geekyhacker.com)
 - 📺 YouTube → [@TheOpenBSDguy](https://www.youtube.com/@TheOpenBSDguy)
 - 🐦 X → [@kasra_mp](https://twitter.com/kasra_mp)
