@@ -30,6 +30,8 @@ A growing collection of retro computing content — FTP tricks for old machines,
 
 ## Stack
 
+[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 `Java` `Kotlin` `Spring Boot` `Python` `OpenBSD` `Linux` `Kafka` `Redis` `Elasticsearch` `Docker`
 
 ---
