@@ -6,7 +6,7 @@ Blogger since 2013 over at [Geeky Hacker](https://geekyhacker.com) and running t
 
 ---
 
-## Two sides of the same nerd
+## Two sides of the same geek
 
 ### ☕ Backend engineering
 
